@@ -10,7 +10,10 @@
 ```
 ╔════════════════════════════════════════════════════════════╗
 ║              🌟 MicroJet Framework 🌟                      ║
-║           NOTE:This project is in under construction, so please do not use it now.(We will let you know when it will be available here.)            ║
+║           NOTE:This project is in under construction,
+so please do not use it now.
+(We will let you know when
+it will be available here.)            ║
 ║                                        ║
 ╚════════════════════════════════════════════════════════════╝
 ```
