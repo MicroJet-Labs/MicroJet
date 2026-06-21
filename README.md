@@ -1,4 +1,4 @@
-## NOTE:This project is in under construction, so please do not use it now.(We will let you know when it will be available here.)
+
 # 🚀 MicroJet - Modern Python Web Framework
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
@@ -10,8 +10,8 @@
 ```
 ╔════════════════════════════════════════════════════════════╗
 ║              🌟 MicroJet Framework 🌟                      ║
-║     Bottle.py এর সহজতা + React এর শক্তিশালী            ║
-║                  কম্পোনেন্ট সিস্টেম                        ║
+║           NOTE:This project is in under construction, so please do not use it now.(We will let you know when it will be available here.)            ║
+║                                        ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
